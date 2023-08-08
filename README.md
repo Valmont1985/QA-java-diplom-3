@@ -1,1 +1,1 @@
-# Diplom_3
+# QA-java-Diplom-3
